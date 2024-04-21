@@ -1,0 +1,1 @@
+to update schema.prisma - npx prisma migrate dev change-field
